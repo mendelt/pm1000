@@ -1724,7 +1724,7 @@
     (uuid 4655e229-4892-4a2f-b152-1c6ad26f2c21)
     (property "Reference" "R6" (id 0) (at 120.65 88.9 90))
     (property "Value" "1R 1W" (id 1) (at 120.65 91.44 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal" (id 2) (at 120.65 93.98 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" (id 2) (at 120.65 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 120.65 93.98 0)
@@ -1927,7 +1927,7 @@
     (uuid 6206e7d6-1501-496d-8722-8b1c0a17018a)
     (property "Reference" "R2" (id 0) (at 130.81 33.02 90))
     (property "Value" "1R 1W" (id 1) (at 130.81 35.56 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal" (id 2) (at 130.81 38.1 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" (id 2) (at 130.81 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 38.1 0)
@@ -2365,7 +2365,7 @@
     (uuid bf44974b-43bc-4ff5-8f96-747697bd08a6)
     (property "Reference" "R1" (id 0) (at 120.65 33.02 90))
     (property "Value" "1R 1W" (id 1) (at 120.65 35.56 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal" (id 2) (at 120.65 38.1 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" (id 2) (at 120.65 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 120.65 38.1 0)
@@ -2835,10 +2835,10 @@
       (reference "J5") (unit 1) (value " ") (footprint "Connector_Molex:Molex_KK-396_5273-02A_1x02_P3.96mm_Vertical")
     )
     (path "/bf44974b-43bc-4ff5-8f96-747697bd08a6"
-      (reference "R1") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal")
+      (reference "R1") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
     )
     (path "/6206e7d6-1501-496d-8722-8b1c0a17018a"
-      (reference "R2") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal")
+      (reference "R2") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
     )
     (path "/a016d1a8-57d0-439d-9a40-a707ee777b0b"
       (reference "R3") (unit 1) (value "2k2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -2850,7 +2850,7 @@
       (reference "R5") (unit 1) (value "7k5") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/4655e229-4892-4a2f-b152-1c6ad26f2c21"
-      (reference "R6") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal")
+      (reference "R6") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
     )
     (path "/42c9cd22-ac7d-4ed1-85a6-b96816db1f7d"
       (reference "R7") (unit 1) (value "1R 1W") (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal")
