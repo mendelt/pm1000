@@ -1658,7 +1658,7 @@
     (in_bom yes) (on_board yes)
     (uuid 4655e229-4892-4a2f-b152-1c6ad26f2c21)
     (property "Reference" "R5" (id 0) (at 128.27 88.9 90))
-    (property "Value" "10R 1W" (id 1) (at 128.27 91.44 90))
+    (property "Value" "100R 1W" (id 1) (at 128.27 91.44 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" (id 2) (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2262,7 +2262,7 @@
     (in_bom yes) (on_board yes)
     (uuid bf44974b-43bc-4ff5-8f96-747697bd08a6)
     (property "Reference" "R1" (id 0) (at 128.27 33.02 90))
-    (property "Value" "10R 1W" (id 1) (at 128.27 35.56 90))
+    (property "Value" "100R 1W" (id 1) (at 128.27 35.56 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" (id 2) (at 128.27 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2708,7 +2708,7 @@
       (reference "J5") (unit 1) (value " ") (footprint "Connector_Molex:Molex_KK-396_5273-02A_1x02_P3.96mm_Vertical")
     )
     (path "/bf44974b-43bc-4ff5-8f96-747697bd08a6"
-      (reference "R1") (unit 1) (value "10R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
+      (reference "R1") (unit 1) (value "100R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
     )
     (path "/a016d1a8-57d0-439d-9a40-a707ee777b0b"
       (reference "R2") (unit 1) (value "2k2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -2720,7 +2720,7 @@
       (reference "R4") (unit 1) (value "7k5") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/4655e229-4892-4a2f-b152-1c6ad26f2c21"
-      (reference "R5") (unit 1) (value "10R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
+      (reference "R5") (unit 1) (value "100R 1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal")
     )
     (path "/cb3b6d3e-a1de-42f4-9013-7a4ac90bd06f"
       (reference "R6") (unit 1) (value "240r") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
