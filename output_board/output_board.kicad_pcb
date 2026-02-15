@@ -116,7 +116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -144,7 +144,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d578f019-c0d8-4dec-8df1-49f17709e44c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -279,7 +279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -307,7 +307,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c243e043-c1b2-41bb-8c56-00ba68d3e42c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -441,7 +441,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -469,7 +469,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3e67d89b-c4b4-46c8-bc86-fb0dbd697e9c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -604,7 +604,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -632,7 +632,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6fcece48-619f-46e0-9427-fca8ec5f0beb")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1042,7 +1042,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1070,7 +1070,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cb875109-d977-4952-acfc-41a369201f30")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -1251,7 +1251,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1279,7 +1279,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/86a7436d-6146-4a1c-90b4-1cc63b36a74e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "output_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
