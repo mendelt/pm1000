@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "output_board.kicad_pro",
+    "filename": "pm1000_output.kicad_pro",
     "version": 3
   },
   "net_settings": {
