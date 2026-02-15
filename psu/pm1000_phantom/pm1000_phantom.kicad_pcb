@@ -150,7 +150,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "22k"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "40da47bf-d925-45cc-92a1-458ea610d44e")
@@ -3610,7 +3610,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "22k"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "8abb58fc-2651-46af-bd35-90198d0a01d2")
@@ -3883,7 +3883,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "22k"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "d0740bfd-ae45-44a9-b415-d545ea649a11")
