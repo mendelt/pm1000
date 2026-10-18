@@ -424,10 +424,9 @@
 				)
 			)
 		)
-		(property "Value" "3 pin 2,54mm Molex"
-			(at 2.54 4.08 90)
-			(layer "F.Fab")
-			(hide yes)
+		(property "Value" "Mic A"
+			(at 3.08 4 90)
+			(layer "F.SilkS")
 			(uuid "c5003181-e630-4a6e-9882-76e2f7591fff")
 			(effects
 				(font
@@ -885,7 +884,7 @@
 				)
 			)
 		)
-		(property "Value" "3 pin 2,54mm Molex"
+		(property "Value" "Mic B"
 			(at 2.54 4.08 90)
 			(layer "F.SilkS")
 			(uuid "924edf66-f45b-4569-99b3-f62775c1efee")
@@ -1345,8 +1344,8 @@
 				)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 1.27 4.08 0)
+		(property "Value" "Power Led"
+			(at -5 1.98 0)
 			(layer "F.SilkS")
 			(uuid "e051bf1c-a01e-4fe3-aed7-0fb31feaf73b")
 			(effects
@@ -1764,8 +1763,8 @@
 				)
 			)
 		)
-		(property "Value" "Bla"
-			(at 1.27 4.08 0)
+		(property "Value" "48V in"
+			(at 6.5 1.98 0)
 			(layer "F.SilkS")
 			(uuid "5f8e2a07-52f0-417a-b711-122e3f44ae75")
 			(effects
@@ -2455,9 +2454,9 @@
 				)
 			)
 		)
-		(property "Value" "3 pin 2,54mm Molex"
+		(property "Value" "Mod B"
 			(at 2.54 4.08 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "e5d46b3b-d6a4-4bd2-a123-c9dc21bea045")
 			(effects
 				(font
@@ -2467,7 +2466,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85722d06-f243-4501-b635-8961613ba5ab")
@@ -2479,7 +2478,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "40acb5c7-4c7a-4c7f-b22b-cbcf45ac03d2")
@@ -2915,10 +2914,9 @@
 				)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
+		(property "Value" "Switch B"
 			(at 1.27 4.08 90)
-			(layer "F.Fab")
-			(hide yes)
+			(layer "F.SilkS")
 			(uuid "e67c1895-1fb6-4da0-8bd5-42eed45fd59d")
 			(effects
 				(font
@@ -4146,7 +4144,7 @@
 			(at 1.74 -2.43 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "3cfe8850-e116-4053-9f8d-5f450ddd743c")
+			(uuid "b580399a-01c8-44a0-89ea-2cfd58acc4e2")
 			(effects
 				(font
 					(size 1 1)
@@ -4154,10 +4152,10 @@
 				)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at -2.54 3.81 0)
-			(layer "F.Fab")
-			(uuid "6ed266ad-860d-46c4-b56c-10a655aaf97d")
+		(property "Value" "Switch A"
+			(at 1.54 3.81 90)
+			(layer "F.SilkS")
+			(uuid "f8a743a5-c08f-4d4d-9bfa-0bb4ba63020e")
 			(effects
 				(font
 					(size 1 1)
@@ -4169,7 +4167,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "016b5c04-6acb-4316-ab40-0d0a48dd8c23")
+			(uuid "8dd13f46-7222-45a5-801f-28017b17b8b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4181,7 +4179,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c7b5e34-3dbe-4543-87c8-5c05456ecdcf")
+			(uuid "bb0b1799-baf8-4724-bb9b-3bd8179cb650")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4573,8 +4571,8 @@
 				)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 1.27 4.08 90)
+		(property "Value" "Led A"
+			(at 1.27 4.08 270)
 			(layer "F.SilkS")
 			(uuid "7fbeee10-d7c9-468d-87b4-6810afc0a90e")
 			(effects
@@ -4992,10 +4990,9 @@
 				)
 			)
 		)
-		(property "Value" "3 pin 2,54mm Molex"
+		(property "Value" "Mod A"
 			(at 2.54 4.08 90)
-			(layer "F.Fab")
-			(hide yes)
+			(layer "F.SilkS")
 			(uuid "25ab2a50-bffa-4809-8c80-f18314ec4121")
 			(effects
 				(font
@@ -5999,7 +5996,7 @@
 				)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
+		(property "Value" "Led B"
 			(at 1.27 4.08 90)
 			(layer "F.SilkS")
 			(uuid "d093287d-ac00-45e3-b478-2ac1535f898d")
