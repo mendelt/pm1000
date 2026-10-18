@@ -2183,14 +2183,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 102.87 35.56 0)
+		(property "Value" "Led A"
+			(at 99.06 37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
@@ -2234,6 +2233,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2716,14 +2716,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 102.87 22.86 0)
+		(property "Value" "Switch A"
+			(at 98.806 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
@@ -2767,6 +2766,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2802,14 +2802,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 41.91 27.94 0)
+		(property "Value" "48V in"
+			(at 39.116 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
@@ -2844,6 +2843,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser #" "538-22-23-2028"
@@ -2966,14 +2966,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 170.18 35.56 0)
+		(property "Value" "Led B"
+			(at 165.862 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
@@ -3017,6 +3016,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3206,14 +3206,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2 pin 2,54mm Molex"
-			(at 170.18 22.86 0)
+		(property "Value" "Switch B"
+			(at 166.37 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
@@ -3248,6 +3247,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser #" "538-22-23-2028"
