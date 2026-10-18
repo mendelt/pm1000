@@ -1707,6 +1707,12 @@
 		(uuid "331e9d47-6ec3-4806-b88a-3b0fb3c46673")
 	)
 	(junction
+		(at 87.63 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37c769d0-c237-4396-8342-3fc30e931ce9")
+	)
+	(junction
 		(at 71.12 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1825,6 +1831,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dba91c1f-40b8-466c-9b70-203639f7a309")
+	)
+	(junction
+		(at 87.63 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f268b951-03a4-4528-b4d7-0975875e62c8")
 	)
 	(junction
 		(at 29.21 93.98)
@@ -2001,6 +2013,16 @@
 			(type default)
 		)
 		(uuid "170f48db-44e3-4f91-b7bc-4a70677b4a5f")
+	)
+	(wire
+		(pts
+			(xy 87.63 35.56) (xy 87.63 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17107dc8-f2e5-4b62-a85c-3ac44a9cf31c")
 	)
 	(wire
 		(pts
@@ -2391,6 +2413,16 @@
 			(type default)
 		)
 		(uuid "5e906736-56ac-4d6f-bbfe-64d093db3cd6")
+	)
+	(wire
+		(pts
+			(xy 87.63 35.56) (xy 97.79 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ee4c0f4-0541-4aed-a46c-e53cff48166e")
 	)
 	(wire
 		(pts
@@ -2924,7 +2956,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 35.56) (xy 97.79 35.56)
+			(xy 78.74 35.56) (xy 87.63 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2971,6 +3003,16 @@
 			(type default)
 		)
 		(uuid "c7d24e5b-7a46-45f2-9a29-1c6e98ea51df")
+	)
+	(wire
+		(pts
+			(xy 87.63 43.18) (xy 87.63 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca08cfcc-6fbe-4429-9972-330fa0a439fd")
 	)
 	(wire
 		(pts
@@ -3424,7 +3466,7 @@
 			)
 		)
 	)
-	(global_label "+44V"
+	(global_label "+44VB"
 		(shape input)
 		(at 153.67 93.98 90)
 		(fields_autoplaced yes)
@@ -3436,7 +3478,7 @@
 		)
 		(uuid "c5b018fe-a7cd-4802-9ba3-d9b828a8a7be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.67 85.9148 90)
+			(at 153.67 84.6448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,10 +4124,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1a0a52ab-c009-4ae7-a486-c62f65097af0")
 		(property "Reference" "D12"
-			(at 39.37 134.62 0)
+			(at 39.116 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4446,6 +4487,83 @@
 			(project "pm1000_psu"
 				(path "/3a44f2ac-ebad-4a14-a75e-2fe0d50ab000"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 87.63 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "386f3fde-1be5-49ad-861e-ed5869e44db8")
+		(property "Reference" "C14"
+			(at 90.17 38.8238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2200uF 80V"
+			(at 81.788 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn"
+			(at 87.63 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 87.63 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser #" "667-ECA-2AHG221B"
+			(at 87.63 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c31d728-cebb-4847-9c10-de8c9ddc5539")
+		)
+		(pin "2"
+			(uuid "8c9cfc8a-c769-4263-b926-c12995b2b5f7")
+		)
+		(instances
+			(project "pm1000_psu"
+				(path "/3a44f2ac-ebad-4a14-a75e-2fe0d50ab000"
+					(reference "C14")
 					(unit 1)
 				)
 			)
